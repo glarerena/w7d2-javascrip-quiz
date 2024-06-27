@@ -15,7 +15,13 @@ There is an questions array, and you may add as many questions as you would like
 Tests - You can take the quiz yourself, and check out for the correct answers yourself on Google.
 
 .
+Running the Quiz - Open the index.html file in your preferred web browser.
 
+Answer the questions presented in the quiz.
+
+Your score will be displayed at the end of the quiz.
+
+Refresh your browser to take the quiz again.
 
 
 
