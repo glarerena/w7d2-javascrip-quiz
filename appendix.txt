@@ -1,0 +1,7 @@
+I followed a 20 minute walk through video on Youtube
+It has the styling, and the html broken down very good.
+I understood all of this very well.
+The javascript was also here, but it was not explained very well in the video.
+The quiz is functional.
+The youtube video was Build A Quiz App using HTML, CSS, and javascript by Devression
+The questions array is set up, so I can continue to add as many questions to my quiz as I would like. 
